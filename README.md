@@ -7,7 +7,7 @@ TETRIS GAME
 
 
 INTRODUCTION
-This program is an implementation of the classic puzzle arcade game ‘TERTIS’.
+This program is an implementation of the classic puzzle arcade game ‘TETRIS’.
 The game was originally designed in 1984 in Russia and has made it to almost all major platforms in several different forms.This project is an attempt to emulate the DOS tetris released in 1986 for windows.
 
 
